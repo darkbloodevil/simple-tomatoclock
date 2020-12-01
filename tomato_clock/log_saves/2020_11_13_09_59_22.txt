@@ -1,0 +1,31 @@
+2020-11-13 09:59:22
+
+=========--------------------          LATEST	--------------------=========
+
+| KIND		15MIN
+| STATUS		running
+| MISSION	
+| START TIME	2020-11-13 09:59:26
+
+=========--------------------       SUCCEEDED	--------------------=========
+
+
+
+=========--------------------          FAILED	--------------------=========
+
+| 40MIN	1		| 25MIN	1		
+|				|
+
+
+
+=========--------------------          DETAIL	--------------------=========
+
+| START TIME	2020-11-13 09:59:23		| END TIME	2020-11-13 09:59:23
+| KIND	40MIN	| STATUS	failed		| MISSION	
+|
+| START TIME	2020-11-13 09:59:24		| END TIME	2020-11-13 09:59:25
+| KIND	25MIN	| STATUS	failed		| MISSION	
+|
+| START TIME	2020-11-13 09:59:26		| END TIME	null
+| KIND	15MIN	| STATUS	running		| MISSION	
+|
