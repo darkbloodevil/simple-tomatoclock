@@ -128,7 +128,6 @@ public class PhysicsSystem extends EntitySystem {
                         message_decoder(b, pbc.physics_message);
                     }
                 }
-
             }
         }
     }
